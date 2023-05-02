@@ -18,6 +18,8 @@
 
 <body>
     <h1>Hello World</h1>
+    <h2>{{ $subtitle }}</h2>
+    <p> {{ $students[1]}}</p>
 </body>
 
 </html>
